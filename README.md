@@ -1,2 +1,2 @@
 # odin-recipes
-intro to html project
+This is a simple recipe project working with only html. This project involves creating a home page with links to some of my favorite recipes! Included in the recipe page is an image of the dish, a description, an unordered list of ingrediants as well as the actual steps to prepare the dish. Upon completion of this project I will have demonstrated my ability to use basic HTML tags as well as an ability to successfully use git and github
