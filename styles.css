@@ -1,0 +1,38 @@
+.index {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+  .center {
+    max-width: 500px;
+    margin: auto;
+  }
+
+  a {
+    padding: 70px;
+    font-size: 30px;
+  }
+
+  h1 {
+    text-align: center;
+    color: white;
+  }
+
+  body{
+    background-image: url("./recipes/kitchen.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img {
+    background-size: cover;
+}
+    
+#center {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
